@@ -1,8 +1,8 @@
 def setup():
-    # Set up canvas size, adjusted according to given image
+    # Set up canvas size, adjusted according to the given image
     # Syntax: size(width, height)
     size(870, 710)
-    # Set background color using rgb, adjusted according to given image
+    # Set background color using rgb, adjusted according to the given image
     background(255, 215, 0)
     # Fill in black (0 = black, 255 = white for grey scale) for the shapes
     fill(0)
